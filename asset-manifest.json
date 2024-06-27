@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mra-website/static/css/main.d23d3894.css",
+    "main.js": "/mra-website/static/js/main.92471b5b.js",
+    "static/js/453.68693753.chunk.js": "/mra-website/static/js/453.68693753.chunk.js",
+    "index.html": "/mra-website/index.html",
+    "static/media/process-arrow-5-1.svg": "/mra-website/static/media/process-arrow-5-1.871aa48f161a55ce1e23.svg",
+    "static/media/slick.svg": "/mra-website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/mra-website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/mra-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/mra-website/static/media/slick.295183786cd8a1389865.woff",
+    "main.d23d3894.css.map": "/mra-website/static/css/main.d23d3894.css.map",
+    "main.92471b5b.js.map": "/mra-website/static/js/main.92471b5b.js.map",
+    "453.68693753.chunk.js.map": "/mra-website/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d23d3894.css",
+    "static/js/main.92471b5b.js"
+  ]
+}
