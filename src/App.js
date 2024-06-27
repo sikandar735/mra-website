@@ -28,11 +28,7 @@ const App = () => {
         <RouteScrollToTop />
         <ScrollToTop smooth color="#196164" />
         <Routes>
-          <Route exact path="/" element={<HomeOne />} />
-          <Route exact path="/home-2" element={<HomeTwo />} />
-          <Route exact path="/home-3" element={<HomeThree />} />
-          <Route exact path="/home-4" element={<HomeFour />} />
-          <Route exact path="/home-5" element={<HomeFive />} />
+          <Route exact path="/" element={<HomeOne />} /> 
           <Route exact path="/about" element={<About />} />
           <Route exact path="/service" element={<Service />} />
           <Route exact path="/service-details" element={<ServiceDetails />} />
@@ -43,8 +39,7 @@ const App = () => {
           <Route exact path="/pricing" element={<Pricing />} />
           <Route exact path="/team" element={<Team />} />
           <Route exact path="/team-details" element={<TeamDetails />} />
-          <Route exact path="/contact" element={<Contact />} />
-          <Route exact path="*" element={<Error />} />
+          <Route exact path="/contact" element={<Contact />} /> 
         </Routes>
       </BrowserRouter>
     </>
